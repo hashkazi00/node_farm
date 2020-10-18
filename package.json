@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "A simple nodejs project with url routing, web server, html templating and file manipulation in mind.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashkazi00/node_farm.git"
+  },
+  "author": "Sahil Kazi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hashkazi00/node_farm/issues"
+  },
+  "homepage": "https://github.com/hashkazi00/node_farm#readme",
+  "dependencies": {
+    "slugify": "^1.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  }
+}
